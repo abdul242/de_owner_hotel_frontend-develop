@@ -1,0 +1,1 @@
+sections A–G (design system, component inventory, architecture, routes, data model, state machine) built on this brand reading, then start Phase 1. If any of the defaults above are wrong, tell me now and I'll adjust them in the data layer.
